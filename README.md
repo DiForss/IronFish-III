@@ -123,7 +123,7 @@ journalctl -u ironfishd -f
 Список всех доступных команд с кошельком:
 
 ironfish wallet
-Удаление ноды:
 
-systemctl stop ironfishd
-rm -rf $HOME/.ironfish
+
+
+
