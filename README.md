@@ -122,7 +122,6 @@ screen -R ironfish
 journalctl -u ironfishd -f
 Список всех доступных команд с кошельком:
 ironfish wallet
-g
 
 
 
